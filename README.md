@@ -13,3 +13,7 @@ node版全文搜索，不支持中文
 
 [中文lunr.js](https://github.com/codepiano/lunr.js)
 分词依赖后端
+
+# BASH
+[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+bash learning
